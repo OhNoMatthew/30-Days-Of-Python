@@ -1,6 +1,6 @@
 """ Day 2 """
 
-# Day 2: 30 Days of ptyhon programming
+# Day 2: 30 Days of python programming
 
 # Excersize 1
 first_name:  str = 'Matthew'
